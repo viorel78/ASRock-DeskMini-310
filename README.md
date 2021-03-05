@@ -1,6 +1,6 @@
 # ASRock-DeskMini-310
 OpenCore 0.6.6 EFI
 please mean that everything was tested on bios v4.40 and on another bios version the behavior may differ
-# OpenCore 0.6.7 EFI
+# ASRock-DeskMini-310_OpenCore 0.6.7 EFI
 - removed IntelAHCI.kext
 - update kexts 
